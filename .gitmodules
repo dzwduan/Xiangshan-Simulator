@@ -1,0 +1,3 @@
+[submodule "3rd_lib/doctest"]
+	path = 3rd_lib/doctest
+	url = https://github.com/doctest/doctest.git
